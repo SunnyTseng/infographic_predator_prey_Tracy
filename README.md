@@ -13,6 +13,13 @@ The paper is entitled "Predator-prey co-occurrence in harvest blocks: Implicatio
 - [Short note of research outcome](./docs_readme/shortnote.pdf)
 
 
+## Product
+
+### version 1 (2023.05.09)
+![image](docs_readme/infographic_predator_prey_Tracy_v1.jpg)
+
+
+
 ## Time line
 
 | Deliverable | Due | Review |
