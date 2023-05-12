@@ -15,6 +15,12 @@ The paper is entitled "Predator-prey co-occurrence in harvest blocks: Implicatio
 
 ## Product
 
+### version 2 (2023.05.12)
+
+Inforgraphic in different formats can be downloaded here: [PDF](docs_readme/infographic_predator_prey_Tracy_v2.pdf), [PNG](docs_readme/infographic_predator_prey_Tracy_v2.png), or [JPG](docs_readme/infographic_predator_prey_Tracy_v2.jpg).
+
+![image](docs_readme/infographic_predator_prey_Tracy_v2.jpg)
+
 ### version 1 (2023.05.09)
 ![image](docs_readme/infographic_predator_prey_Tracy_v1.jpg)
 
